@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@hashgraph/sdk": "^2.75.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  }
+}
